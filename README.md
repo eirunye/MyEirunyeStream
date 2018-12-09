@@ -294,4 +294,7 @@ Stream.of(n).forEach(System.out::println);
 
 可能有些同学看到第一个的时候就觉得在哪里见过？是的，没错，是不是和[**RxJava**](https://github.com/ReactiveX/RxJava)的操作符的作用差不多都是非常类似的。当然了，[RxJava](https://github.com/ReactiveX/RxJava)的操作是非常丰富的，希望大家可以多多去了解。
 
+# 推荐
+[**我的博客**](https://eirunye.github.io/)
+[**我的简书**](https://www.jianshu.com/u/447fdef5fb8f)
 
